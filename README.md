@@ -24,41 +24,41 @@ Enhancing Brand Reputation via Social Media Monitoring using SQL and Power BI
 - Create visual dashboards for decision-makers
 - Offer data-driven recommendations
 
-🔧 4. Tools & Technologies
+# Tools & Technologies
 - PostgreSQL 
 - Power BI
 - Excel / Google Sheets
 
-📂 5. Dataset Description
+# Dataset Description
 - CustomerID: Unique customer identifier
 - Age, Region, Income
 - Product Purchased, Purchase Amount
 - App Installs, DAU, Uninstalls
 - Sentiment, Brand Mention, Platform
 
-🛠️ 6. Project Workflow
-🧹 Phase 1: Data Collection & Cleaning
+# Project Workflow
+## Phase 1: Data Collection & Cleaning
 - Extract and preprocess data from source files
 - Clean and validate fields using SQL
 - Load cleaned data into PostgreSQL for structured storage and efficient querying.
 - Data transformation using SQL
 
-🔍 Phase 2: Exploratory Data Analysis
+## Phase 2: Exploratory Data Analysis
 Conduct deeper SQL queries to analyse social media engagement, sentiment distribution, competitor mentions, and complaint patterns.
 - Perform trend analysis, segment customers
 - Identify churn, engagement, and sentiment drivers
 - Connect Power BI to SQL. Visualise revenue, customer demographics, and product sales.
 
-📊 Phase 3: KPI Definition & Dashboard Design
+## Phase 3: KPI Definition & Dashboard Design
 - Define key metrics (e.g., DAU, churn rate, complaint rate, NPS)
 - Build interactive dashboards in Tableau/Power BI
 
-🔮 Phase 4: Advanced Insights (Optional Enhancements)
+## Phase 4: Advanced Insights (Optional Enhancements)
 - Forecasting (e.g., user engagement trends)
 - Crisis response timelines
 - Region-based leaderboards or engagement tiers
 
-📈 Phase 5: Reporting & Documentation
+## Phase 5: Reporting & Documentation
 - Visualise sentiment trends, engagement, and competitor mentions.
 - Visualise product recalls, crisis response, and complaint trends.
 
@@ -72,7 +72,7 @@ Conduct deeper SQL queries to analyse social media engagement, sentiment distrib
 ![Image](https://github.com/user-attachments/assets/3bfdde8d-2371-4b99-850c-c4f13ef5526f)
 
 
-💡 9. Key Insights & Recommendations
+# Key Insights & Recommendations
 - Accelerate response times (target < 120 days)
 - Optimise monitoring on key channels/regions
 - Cross-train support & social teams for faster escalation
