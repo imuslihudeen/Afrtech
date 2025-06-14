@@ -5,7 +5,7 @@
 2. [Project Aim](#Project-Aim)
 3. [Objectives](#objectives)  
 4. [Beneficiaries](#beneficiaries)  
-5.[Dashboard](#dashboard)
+5. [Dashboard](#dashboard)
 6. [Key insights and recommendation](#key-insights-and-recommendation)  
 
 Project Overview
