@@ -6,8 +6,8 @@
 3. [Objectives](#objectives)  
 4. [Beneficiaries](#beneficiaries)  
 5. [Data Used](#data-used)  
-6. [Dashboard](#dashboard)  
-7. [Key insights and recommendation](#key insights and recommendation)  
+6. [Dashboard](#dashboard)
+7. [Key insights and recommendation](#key-insights-and-recommendation)  
 
 Project Overview
 This project addresses business challenges by analysing key metrics such as churn rate, user engagement, social sentiment, and building interactive dashboards that provide actionable insights for business decisions.
