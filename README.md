@@ -8,18 +8,18 @@
 5. [Dashboard](#dashboard)
 6. [Key insights and recommendation](#key-insights-and-recommendation)  
 
-Project Overview
+# Project Overview
 This project addresses business challenges by analysing key metrics such as churn rate, user engagement, social sentiment, and building interactive dashboards that provide actionable insights for business decisions.
 
-Project Aim
+# Project Aim
 Enhancing Brand Reputation via Social Media Monitoring using SQL and Power BI
 
-Project Objective
+# Project Objective
 - Monitor Social Media Conversations: Continuously monitor social media platforms for mentions of the company and its products.
 - Sentiment Analysis: Analyse sentiment in social media conversations to identify positive and negative trends.
 - Customer Issue Resolution: Identify and prioritise customer complaints and issues for swift resolution.
 - Crisis Detection: Implement early warning systems to detect potential crises and take proactive measures.
-- - Define and track key performance indicators (KPIs)
+- Define and track key performance indicators (KPIs)
 - Identify trends, issues, and high-impact metrics
 - Create visual dashboards for decision-makers
 - Offer data-driven recommendations
