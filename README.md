@@ -72,7 +72,14 @@ Conduct deeper SQL queries to analyse social media engagement, sentiment distrib
 ![Image](https://github.com/user-attachments/assets/3bfdde8d-2371-4b99-850c-c4f13ef5526f)
 
 
-# Key Insights & Recommendations
+# Key Insights 
+- A robust $57.5 M revenue with 73 K transactions, and a 
+- An average purchase of $782 average purchase driven mostly by customers 50–64 years and repeat buyers. While
+- Revenue peaked in late 2022 at $2.7 M/month; growth has since plateaued, signalling targeted campaign opportunities.
+- Brand sentiment reveals 36 K mentions with 41% positive sentiment and a 26% engagement rate with Instagram and TikTok delivering top influencer lift. 
+- Crisis management metrics expose 13 K reported issues with only a 48% resolution rate and lengthy response times.
+
+# Recommendations
 - Accelerate response times (target < 120 days)
 - Optimise monitoring on key channels/regions
 - Cross-train support & social teams for faster escalation
